@@ -17,5 +17,4 @@ In the project directory cd to /server, you can run:
 
 ### `node server.js`
 
-Runs the app in the development mode.\
-Open [http://localhost:5001](http://localhost:5001) to view it in your browser.
+Open [http://localhost:5001](http://localhost:5001).
